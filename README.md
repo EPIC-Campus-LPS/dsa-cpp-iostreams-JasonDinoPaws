@@ -13,13 +13,13 @@
 - Create a GitHub account and fork the repository
 - Create a new folder for this project(this will make it easier to use GitHub)
 - Complete at least 5 of the following challenges. You can use one file for all 5 and comment them out as you go or use 5 separate files. Label which challenge is which using comments.
-	- [ ] Write a program to echo back user input
-	- [ ] Write a program that reads a temperature in Celsius from the user and converts it to Fahrenheit
-	- [ ] Write a program that reads an integer from the user and prints its factorial
-	- [ ] Write a program that read a name from the user and says "Hello Name!" back
-	- [ ] Write a program that determines whether an input string is a palindrome
-	- [ ] Write a program that reads in two numbers and determines their sum
-	- [ ] Write a program that reads in a number and returns whether it is even 
+	- [x] Write a program to echo back user input
+	- [x] Write a program that reads a temperature in Celsius from the user and converts it to Fahrenheit
+	- [x] Write a program that reads an integer from the user and prints its factorial
+	- [x] Write a program that read a name from the user and says "Hello Name!" back
+	- [x] Write a program that determines whether an input string is a palindrome
+	- [x] Write a program that reads in two numbers and determines their sum
+	- [x] Write a program that reads in a number and returns whether it is even 
 	- [ ] Write a program that reads a number of minutes from the user and converts it to hours and minutes
 	- [ ] Write a program that reads the principal amount, rate of interest, and time period from the user and prints the simple interest
 	- [ ] Write a program that reads a binary number and converts it to its decimal equivalent using bitwise shift operators. Output the decimal number.
